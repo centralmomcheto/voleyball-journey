@@ -1,0 +1,13 @@
+public class opteam {
+        public String opname;
+        public String getOpname;
+        public opteam(){
+            this.opname=opname;
+    }
+        private String getOpname(){
+            return opname;
+    }
+        private void setOpname(String opname){
+            this.opname=opname;
+    }
+}
