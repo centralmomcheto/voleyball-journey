@@ -47,7 +47,7 @@ public class team {
             }
                 System.out.println(t1.getName()+"["+points+":"+oppoints+"]"+p1.getOpname);
         }
-            if(points<oppoints){
+            if(points>oppoints){
                 System.out.println("печели отбор"+t1.getName());
         }   else{
                 System.out.println("печели отбор"+p1.getOpname);
